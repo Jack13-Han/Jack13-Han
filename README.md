@@ -1,6 +1,6 @@
 ## Hello Everyone....
-https://github.com/Jack13-Han/Jack13-Han/blob/main/Happy%20Dance%20GIF.gif?raw=true
-
+![Funny GIF] ( https://raw/github.com/Jack13-Han/Jack13-Han/blob/main/Happy%20Dance%20GIF.gif?raw=true
+)
 
 ကြိုးစားရင် ဘာမဆို ဖြစ်နိုင်ပါတယ်...ရူးသွားရင်တော့ ဘယ်တက်နိုင်မလဲ
 <!--
