@@ -1,6 +1,8 @@
 ## HEllo Everyone....
-![Batman vs Joker](https://your-image-link.com/batman-vs-joker.gif)
+(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpmcGJ3YnFmZTVwYmo1MWs0M3ZobWJiYWJiZGw0aGJ1dDd0MHNqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/01nYKGHaJNECnL96Ei/giphy.gif)
 
+
+ကြိုးစားရင် ဘာမဆို ဖြစ်နိုင်ပါတယ်...ရူးသွားရင်တော့ ဘယ်တက်နိုင်မလဲ
 <!--
 **Jack13-Han/Jack13-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
