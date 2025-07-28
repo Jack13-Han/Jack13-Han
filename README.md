@@ -1,5 +1,5 @@
-## HEllo Everyone....
-(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpmcGJ3YnFmZTVwYmo1MWs0M3ZobWJiYWJiZGw0aGJ1dDd0MHNqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/01nYKGHaJNECnL96Ei/giphy.gif)
+## Hello Everyone....
+
 
 
 ကြိုးစားရင် ဘာမဆို ဖြစ်နိုင်ပါတယ်...ရူးသွားရင်တော့ ဘယ်တက်နိုင်မလဲ
