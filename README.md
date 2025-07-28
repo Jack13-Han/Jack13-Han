@@ -3,6 +3,9 @@
 
 
 ကြိုးစားရင် ဘာမဆို ဖြစ်နိုင်ပါတယ်...ရူးသွားရင်တော့ ဘယ်တက်နိုင်မလဲ
+
+頑張れば何でもできる…アーホになったら　しょうがないね…(笑)
+
 <!--
 **Jack13-Han/Jack13-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
